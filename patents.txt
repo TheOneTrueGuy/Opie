@@ -1,0 +1,50 @@
+Method for polishing a workpiece in the production of an optical element
+Lithographic apparatus and device manufacturing method
+High stability collimator assembly, lithographic apparatus, and method
+Authentication method and system
+Semiconductor device with novel spacer structures having novel configurations
+Semiconductor device
+Substrate loading system
+Integrated health data capture and analysis system
+Optical diffraction component for suppressing at least one target wavelength by destructive interference
+Optical assembly having a thermally conductive component
+Radio frequency identification based integrated computer with hardware accelerator
+Methods of manufacturing redistribution circuit structures using phase shift mask
+Switch device facilitating frequency shift of a resonator in a quantum device
+Method and device for characterizing a mask for microlithography
+Mirror for a microlithographic projection exposure apparatus, and method for operating a deformable mirror
+EUV patterning of monolayers for selective atomic layer deposition
+Reducing impact of cross-talk between modulators that drive a multi-channel AOM
+De novo synthesized gene libraries
+Excimer laser with uniform beam
+Projection exposure method and projection exposure apparatus for microlithography
+Objective lens arrangement for confocal endomicroscopy
+Alignment sensor apparatus for process sensitivity compensation
+Oblique deposition for quantum device fabrication
+Optical proximity correction methods and methods of manufacturing masks using the OPC methods
+Method, measuring system and lithography apparatus
+Real-time detection of influenza virus
+Materials and methods relating to single molecule arrays
+Overlay measurement using multiple wavelengths
+Operating a particle beam device
+Integrated health data capture and analysis system
+Method and device for determining the heating state of a mirror in an optical system
+In situ probing of a discrete time analog circuit
+Method for specifying fracture resistance of mechanically stressed glass or glass ceramic
+Fabricating unique chips using a charged particle multi-beamlet lithography system
+X-ray source with rotating anode at atmospheric pressure
+Metal track routing with buffer bank insertion
+Method of fabricating a chip package module with improve heat dissipation effect
+Method and apparatus for image analysis
+Projection exposure method and projection lens with setting of the pupil transmission
+Optical lithography system for patterning semiconductor devices and method of using the same
+Cantilever linear motion reference device employing two-layer air suspension
+High-resolution three-dimensional profiling of features in advanced semiconductor devices in a non-destructive manner using electron beam scanning electron microscopy
+Integrated health data capture and analysis system
+Flows of optimization for patterning processes
+Method and system for fabricating unique chips using a charged particle multi-beamlet lithography system
+Optical system for transferring original structure portions of a lithography mask, projection optical unit for imaging an object field in which at least one original structure portion of the lithography mask is arrangeable, and lithography mask
+Graphene based filter
+Charged particle ray device and cross-sectional shape estimation program
+Pattern inspection system
+Mould with a mould pattern, and device and method for producing same 
