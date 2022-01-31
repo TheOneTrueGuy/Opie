@@ -26,7 +26,7 @@ myStop = "Human:"
 
 
 
-openai.api_key = "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"
+openai.api_key = "useyourown"
 #ynput=input("Enter your prompt: ") #"Time crystals can be made by" #
 #make new list from ynput split on commas,
 #lyst=ynput.split(",")
