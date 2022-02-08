@@ -3,7 +3,7 @@ import os
 import openai
 import tkinter as tk
 
-openai.api_key = ""#os.getenv("OPENAI_API_KEY") #replace with your key
+openai.api_key = ""#os.getenv("OPENAI_API_KEY")
 
 def get_response(query):
     response = openai.Completion.create(
@@ -25,6 +25,8 @@ def sendQuery_fromtextbox():
     response_Textbox.delete(1.0, tk.END)
     response_Textbox.insert(1.0, response)
     
+def eval_responseCode(cod):
+    eval(cod)
 
 
 
@@ -45,6 +47,13 @@ button_clearquery=tk.Button(button_frame,text="Clear Query",command=lambda:query
 button_clearquery.pack(side=tk.LEFT)
 button_clearresponse=tk.Button(button_frame,text="Clear Response",command=lambda:response_Textbox.delete("1.0", tk.END))
 button_clearresponse.pack(side=tk.LEFT)
+button_eval=tk.Button(button_frame,text="Eval",command=lambda:eval_responseCode(response_Textbox.get(1.0, tk.END)))
+button_eval.pack(side=tk.LEFT)
+button_saveQuery=tk.Button(button_frame,text="Save Query",command=lambda:query_Textbox.save("query.txt"))
+button_saveQuery.pack(side=tk.LEFT)
+button_saveResponse=tk.Button(button_frame,text="Save Response",command=lambda:response_Textbox.save("response.py"))
+button_saveResponse.pack(side=tk.LEFT)
+
 root.mainloop()
 
 
