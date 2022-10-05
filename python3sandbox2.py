@@ -3,7 +3,7 @@ import os
 import openai
 import tkinter as tk
 
-openai.api_key = ""#os.getenv("OPENAI_API_KEY")
+openai.api_key = "yourkeyhere"#os.getenv("OPENAI_API_KEY")
 
 def get_response(query):
     response = openai.Completion.create(
